@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xiaobin97.github.io</id>
+    <id>https://Ben-XiaoBin.github.io</id>
     <title>肖宾的博客</title>
-    <updated>2020-09-18T11:33:29.040Z</updated>
+    <updated>2020-09-21T01:59:06.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://xiaobin97.github.io"/>
-    <link rel="self" href="https://xiaobin97.github.io/atom.xml"/>
+    <link rel="alternate" href="https://Ben-XiaoBin.github.io"/>
+    <link rel="self" href="https://Ben-XiaoBin.github.io/atom.xml"/>
     <subtitle>“ Hello, World! ”</subtitle>
-    <logo>https://xiaobin97.github.io/images/avatar.png</logo>
-    <icon>https://xiaobin97.github.io/favicon.ico</icon>
+    <logo>https://Ben-XiaoBin.github.io/images/avatar.png</logo>
+    <icon>https://Ben-XiaoBin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 肖宾的博客</rights>
     <entry>
         <title type="html"><![CDATA[肖宾个人简历]]></title>
-        <id>https://xiaobin97.github.io/post/xiao-bin-ge-ren-jian-li/</id>
-        <link href="https://xiaobin97.github.io/post/xiao-bin-ge-ren-jian-li/">
+        <id>https://Ben-XiaoBin.github.io/post/xiao-bin-ge-ren-jian-li/</id>
+        <link href="https://Ben-XiaoBin.github.io/post/xiao-bin-ge-ren-jian-li/">
         </link>
         <updated>2020-09-18T08:55:32.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
-<figure data-type="image" tabindex="1"><img src="https://xiaobin97.github.io/post-images/1600419416610.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="2"><img src="https://xiaobin97.github.io/post-images/1600419426972.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://Ben-XiaoBin.github.io/post-images/1600419416610.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://Ben-XiaoBin.github.io/post-images/1600419426972.jpg" alt="" loading="lazy"></figure>
 <h2 id="基本信息">基本信息</h2>
 <p>姓名：肖宾<br>
 研究⽣在读 华中农业⼤学 (HZAU)<br>
